@@ -1,0 +1,10 @@
+{
+  "propertyId": "%s",
+  "roomTypeId": "%s",
+  "guestName": "Ravi Kumar",
+  "guestEmail": "ravi@example.com",
+  "checkIn": "2030-06-10",
+  "checkOut": "2030-06-12",
+  "guests": 2,
+  "rooms": 1
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Harbor View Hotel",
+  "city": "Mumbai",
+  "locality": "Colaba",
+  "address": "1 Ocean Road",
+  "starRating": 4,
+  "amenities": ["WIFI", "POOL"],
+  "roomTypes": [
+    { "name": "Economy", "maxGuests": 1, "inventoryCount": 1, "nightlyPriceMinor": 5000 },
+    { "name": "Family", "maxGuests": 3, "inventoryCount": 1, "nightlyPriceMinor": 12000 }
+  ]
+}
